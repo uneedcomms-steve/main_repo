@@ -1,0 +1,3 @@
+[submodule "src/sub_repo"]
+	path = src/sub_repo
+	url = https://github.com/uneedcomms-steve/sub_repo.git
